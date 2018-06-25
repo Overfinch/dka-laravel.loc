@@ -28,7 +28,7 @@
 
 
         <div class="col-sm-6">
-            <a href="#" class="btn btn-block btn-info"> Создать категорию</a>
+            <a href="{{route('admin.category.create')}}" class="btn btn-block btn-info"> Создать категорию</a>
             <a href="#" class="list-group-item ">
                 <h4 class="">Категория первая</h4>
                 <p class=""> Количество материалов</p>
